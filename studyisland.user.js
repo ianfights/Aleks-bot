@@ -5,8 +5,8 @@
 // @include       http://*.studyisland.com/cfw/test/practice-session*
 // @grant         none
 // @namespace     http://github.com/theopolisme
-// @license       Mit License
-// @version       1.0
+// @license       MIT License
+// @version       1.01
 // @released      2013-09-01
 // @updated       2013-09-01
 // ==/UserScript==
