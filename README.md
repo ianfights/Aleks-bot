@@ -6,3 +6,4 @@ Note No code will be here as this is a closed source project.
 Currently the Aleks bot is free, but later that will change.
 
 <h1>Download</h1>
+<h3>MacOS                        Windows</h3>
