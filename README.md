@@ -1,5 +1,5 @@
 # Aleks-bot
-<h1>Will be re-released on February 10th. </h1>
+<h1>Release Currently pushed back because of compiling errors.</h1>
 This is a place to keep up on the Aleks Bot development.
 
 <h3>Please keep in mind that this is in devolopment and will do more as time goes on.<br>
