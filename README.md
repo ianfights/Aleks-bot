@@ -1,9 +1,21 @@
 # Aleks-bot
-<h1>Release Currently pushed back because of compiling errors.</h1>
-This is a place to keep up on the Aleks Bot development.
 
-<h3>Please keep in mind that this is in devolopment and will do more as time goes on.<br>
-Currently the bot only gets time in for you, so you have to do the topics yourself. Later it will do topics</h3>
+<h1>Important Info</h1>
+<h1> RELEASE CURRENTLY PUSHED BACK AS PROJECT WON'T COMPILE CORRECTLY.</h1>
+<h1>Updates</h1>
 
-<h1></h1>
 
+
+<h1>FAQ</h1>
+<h2>What is the Aleks Bot? <br>
+  The Aleks Bot is a program that does Connected's program Aleks Math.</h2> 
+  
+  <h2>Does it do topics?<br>
+  It doesn't currently do topics, but that will come in a later update.<h2>
+  
+  <h2>What does it do?<br>
+  Currently the Aleks Bot only gets time as some teachers grade on the time in Aleks not the topics.<h2>
+  
+ 
+  
+ 
