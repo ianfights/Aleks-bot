@@ -1,10 +1,11 @@
 # Aleks-bot
 
 <h1>Important Info</h1>
-<h1> RELEASE CURRENTLY PUSHED BACK AS PROJECT WON'T COMPILE CORRECTLY.</h1>
 <h1>Updates</h1>
-
-
+<h3>v0.01</h3>
+Added Ability to Log In<br>
+Gets in Time<br>
+Made Open Source</h3>
 
 <h1>FAQ</h1>
 <h2>What is the Aleks Bot? <br>
@@ -17,5 +18,5 @@
   Currently the Aleks Bot only gets time as some teachers grade on the time in Aleks not the topics.<h2>
   
  
-  
- 
+  <h2>Dependences</h2>
+ <p>Selenium</p>
