@@ -20,3 +20,4 @@ Made Open Source</h3>
  
   <h2>Dependences</h2>
  <p>Selenium</p>
+<p>pyvirtualdisplay</p>
