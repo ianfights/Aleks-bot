@@ -17,7 +17,8 @@ Made Open Source</h3>
   <h2>What does it do?<br>
   Currently the Aleks Bot only gets time as some teachers grade on the time in Aleks not the topics.<h2>
   
- 
+<h2>How will it work?<br>
+It will work by taking a screenshot of the question, and then parsing the image for numbers, then putting those numbers into a math api.</h2> 
   <h2>Dependences</h2>
  <p>Selenium</p>
 <p>pyvirtualdisplay</p>
