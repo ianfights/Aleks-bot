@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-#driver.save_screenshot('/home/pi/Desktop/aleks_bot/SeleniumChromiumTest.png')
 from selenium import webdriver
 from pyvirtualdisplay import Display
 from time import sleep
@@ -46,18 +45,7 @@ menu = driver.find_element_by_xpath('//*[@id="smt_hbmenu_button_input"]')
 menu.click()
 sleep(1)
 learn = driver.find_element_by_xpath('//*[@id="smt_hamburgermenu_button_input_start_learning_HB"]')
-learn.click()
-driver.save_screenshot('/home/pi/Desktop/aleks_bot/SeleniumChromiumTest.png')
-
-'''try:
-	popup_6 = driver.find_element_by_xpath('//*[@id="current-main-view"]/div[2]/div[3]/button[1]')
-        popup_6.click()
-except:
-            
-	popup_5 = driver.find_element_by_xpath('//*[@id="smt_bottomnav_button_input_start_learning"]')
-	popup_5.click()
-        sleep(5)
- '''          
+learn.click() 
     
 
                    
@@ -78,14 +66,5 @@ while True:
     
     sleep(5)
     
-    '''sleep(20)
-	popup_8 = driver.find_element_by_xpath('//*[@id="smt_bottomnav_button_input_requestExplain"]')
-	popup_8.click()
-       # print('Explain pressed')
-	sleep(40)
-        popup_9 = driver.find_element_by_xpath('//*[@id="smt_bottomnav_button_input_learning"]')
-        popup_9.click()
-           # print('Continue Learning Pressed')
-           '''
         
     
