@@ -1,6 +1,7 @@
 # Aleks-bot
 
 <h1>Important Info</h1>
+<h1> If anyone wants to contribute to this project please do so.
 <h1>Updates</h1>
 <h3>v0.01</h3>
 Added Ability to Log In<br>
