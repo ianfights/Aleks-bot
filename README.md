@@ -1,7 +1,11 @@
 # Aleks-bot
 
 <h1>Important Info</h1>
-<h1> If anyone wants to contribute to this project please do so.
+<h1> If anyone wants to contribute to this project please do so. </h1>
+<h1>Todo</h1>
+<h2>Switch from selenium to requests or some other quicker and less resource intensive library</h2>
+<h2>Make a subscription plan where it can run on my server</h2>
+
 <h1>Updates</h1>
 <h3>v0.01</h3>
 Added Ability to Log In<br>
