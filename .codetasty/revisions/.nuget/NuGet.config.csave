@@ -1,0 +1,10 @@
+codetasty.revision.2.0
+{"ts":1614615536,"restoring":false,"user_id":43024,"patch":[{"diffs":[[1,"<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<configuration>\n  <config>\n    <add key=\"DefaultPushSource\" value=\"{https://github.com/POKEBLOX6/Aleks-bot}\" />\n  </config>\n</configuration>\n"]],"start1":0,"start2":0,"length1":0,"length2":180}],"length":180}
+{"ts":1614615537,"restoring":false,"user_id":43024,"patch":[{"diffs":[[1,"."],[0,"<?xml ve"]],"start1":0,"start2":0,"length1":8,"length2":9}],"length":181}
+{"ts":1614615539,"restoring":false,"user_id":43024,"patch":[{"diffs":[[-1,"."],[0,"<?xml ve"]],"start1":0,"start2":0,"length1":9,"length2":8}],"length":180}
+{"ts":1614615541,"restoring":false,"user_id":43024,"patch":[{"diffs":[[1,"﻿"],[0,"<?xml ve"]],"start1":0,"start2":0,"length1":8,"length2":9}],"length":181}
+{"ts":1614615787,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"g>\n</configuration>\n"],[1,"<files>\n\t\t<file src=\"HelloWorld.dll\" target=\"lib\" />\n\t</files>\n"]],"start1":161,"start2":161,"length1":20,"length2":83}],"length":244}
+{"ts":1614615947,"restoring":false,"user_id":43024,"patch":[{"diffs":[[-1,"﻿"],[0,"<?xm"]],"start1":0,"start2":0,"length1":5,"length2":4}],"length":243}
+{"ts":1614615951,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"on>\n"],[-1,"<files>\n\t\t<file src=\"HelloWorld.dll\" target=\"lib\" />\n\t</files>"],[0,"\n"]],"start1":176,"start2":176,"length1":67,"length2":5}],"length":181}
+{"ts":1614621589,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"ration>\n"],[-1,"\n"]],"start1":172,"start2":172,"length1":9,"length2":8}],"length":180}
+{"ts":1614623752,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"g>\n</configuration>\n"],[1,"<files>\n\t\t<file src=\"HelloWorld.dll\" target=\"lib\" />\n\t</files>"]],"start1":160,"start2":160,"length1":20,"length2":82}],"length":242}

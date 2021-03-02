@@ -1,0 +1,6 @@
+codetasty.revision.2.0
+{"ts":1614615415,"restoring":false,"user_id":43024,"patch":[{"diffs":[[1,"src/db.cs\n.replit\n"]],"start1":0,"start2":0,"length1":0,"length2":18}],"length":18}
+{"ts":1614615417,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,".replit\n"],[1,"b"]],"start1":10,"start2":10,"length1":8,"length2":9}],"length":19}
+{"ts":1614615418,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"replit\nb"],[1,"in\n"]],"start1":11,"start2":11,"length1":8,"length2":11}],"length":22}
+{"ts":1614615421,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"lit\nbin\n"],[1,".nuget"]],"start1":14,"start2":14,"length1":8,"length2":14}],"length":28}
+{"ts":1614698291,"restoring":false,"user_id":43024,"patch":[{"diffs":[[-1,"src/db.cs\n.replit\nbin\n.nuget"],[1,"website"]],"start1":0,"start2":0,"length1":28,"length2":7}],"length":7}

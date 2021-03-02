@@ -1,0 +1,43 @@
+codetasty.revision.2.0
+{"ts":1614613209,"restoring":false,"user_id":43024,"patch":[{"diffs":[[1,"GLOBIGNORE='*./src/Main.cs*'\n*"]],"start1":0,"start2":0,"length1":0,"length2":30}],"length":30}
+{"ts":1614613212,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"in.cs*'\n"],[-1,"*"],[1,"mcs "]],"start1":21,"start2":21,"length1":9,"length2":12}],"length":33}
+{"ts":1614613217,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"s*'\nmcs "],[1,"*"]],"start1":25,"start2":25,"length1":8,"length2":9}],"length":34}
+{"ts":1614613219,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"s*'\nmcs "],[-1,"*"]],"start1":25,"start2":25,"length1":9,"length2":8}],"length":33}
+{"ts":1614613221,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"s*'\nmcs "],[1,"./"]],"start1":25,"start2":25,"length1":8,"length2":10}],"length":35}
+{"ts":1614613223,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"'\nmcs ./"],[1,"src/*"]],"start1":27,"start2":27,"length1":8,"length2":13}],"length":40}
+{"ts":1614613225,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0," ./src/*"],[1,".cs"]],"start1":32,"start2":32,"length1":8,"length2":11}],"length":43}
+{"ts":1614613230,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"src/*.cs"],[1," Main.cs"]],"start1":35,"start2":35,"length1":8,"length2":16}],"length":51}
+{"ts":1614613249,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"rc/*.cs "],[1,"./src/"],[0,"Main.cs"]],"start1":36,"start2":36,"length1":15,"length2":21}],"length":57}
+{"ts":1614613348,"restoring":false,"user_id":43024,"patch":[{"diffs":[[-1,"GLOBIGNORE='*./src/Main.cs*'"],[0,"\nmcs"]],"start1":0,"start2":0,"length1":32,"length2":4}],"length":29}
+{"ts":1614613352,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"*.cs"],[-1," ./src/Main.cs"]],"start1":11,"start2":11,"length1":18,"length2":4}],"length":15}
+{"ts":1614613416,"restoring":false,"user_id":43024,"patch":[{"diffs":[[-1,"\n"],[0,"mcs "]],"start1":0,"start2":0,"length1":5,"length2":4}],"length":14}
+{"ts":1614613718,"restoring":false,"user_id":43024,"patch":[{"diffs":[[-1,"mcs ./src/*.cs"],[1,"/reference:System.Net.Http.dll"]],"start1":0,"start2":0,"length1":14,"length2":30}],"length":30}
+{"ts":1614613719,"restoring":false,"patch":[{"diffs":[[1,"mcs "],[0,"/referen"]],"start1":0,"start2":0,"length1":8,"length2":12}],"length":34}
+{"ts":1614613720,"restoring":false,"patch":[{"diffs":[[0,"Http.dll"],[1," "]],"start1":26,"start2":26,"length1":8,"length2":9}],"length":35}
+{"ts":1614613737,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"ttp.dll "],[1,"./src"]],"start1":27,"start2":27,"length1":8,"length2":13}],"length":40}
+{"ts":1614613737,"restoring":false,"patch":[{"diffs":[[0,"ll ./src"],[1,"/*.cs"]],"start1":32,"start2":32,"length1":8,"length2":13}],"length":45}
+{"ts":1614613740,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"ttp.dll "],[1," /"],[0,"./src/*."]],"start1":27,"start2":27,"length1":16,"length2":18}],"length":47}
+{"ts":1614613745,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"p.dll  /"],[1,"reference:System.Net.Http.dll "],[0,"./src/*."]],"start1":29,"start2":29,"length1":16,"length2":46}],"length":77}
+{"ts":1614613752,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0," /reference:"],[-1,"System.Net.Http"],[1,"Mysql.Data"],[0,".dll ./src/*"]],"start1":35,"start2":35,"length1":39,"length2":34}],"length":72}
+{"ts":1614613758,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"ference:"],[1,"lib/"],[0,"Mysql.Da"]],"start1":39,"start2":39,"length1":16,"length2":20}],"length":76}
+{"ts":1614613768,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"e:lib/My"],[-1,"s"],[1,"S"],[0,"ql.Data."]],"start1":45,"start2":45,"length1":17,"length2":17}],"length":76}
+{"ts":1614613786,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"ata.dll "],[1,"/reference:lib/MySql.Data.dll"],[0,"./src/*."]],"start1":58,"start2":58,"length1":16,"length2":45}],"length":105}
+{"ts":1614613790,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"Data.dll"],[1," "],[0,"./src/*."]],"start1":87,"start2":87,"length1":16,"length2":17}],"length":106}
+{"ts":1614613793,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"nce:lib/"],[-1,"MySql.Data.dll"],[1,"Systme"],[0," ./src/*"]],"start1":73,"start2":73,"length1":30,"length2":22}],"length":98}
+{"ts":1614613794,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"Syst"],[-1,"me"],[0," ./s"]],"start1":81,"start2":81,"length1":10,"length2":8}],"length":96}
+{"ts":1614613798,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"lib/Syst"],[1,"em.Data.dll"],[0," ./src/*"]],"start1":77,"start2":77,"length1":16,"length2":27}],"length":107}
+{"ts":1614613807,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"ference:"],[-1,"lib/"],[0,"System.D"]],"start1":69,"start2":69,"length1":20,"length2":16}],"length":103}
+{"ts":1614614752,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"src/*.cs"],[1," "]],"start1":95,"start2":95,"length1":8,"length2":9}],"length":104}
+{"ts":1614614753,"restoring":false,"patch":[{"diffs":[[0,"rc/*.cs "],[1,"\n&&\nmono Main.exe"]],"start1":96,"start2":96,"length1":8,"length2":25}],"length":121}
+{"ts":1614614780,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"mcs "],[1,"-out "],[0,"/referen"]],"start1":0,"start2":0,"length1":12,"length2":17}],"length":126}
+{"ts":1614614781,"restoring":false,"patch":[{"diffs":[[0,"mcs -out"],[1,":./Main.exe"],[0," /refere"]],"start1":0,"start2":0,"length1":16,"length2":27}],"length":137}
+{"ts":1614698982,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"dll "],[-1," /reference:lib/MySql.Data.dll /reference:System.Data.dll "],[0,"./sr"]],"start1":47,"start2":47,"length1":66,"length2":8}],"length":79}
+{"ts":1614698993,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"rc/*.cs "],[-1,"\n"],[0,"&&\nmono "]],"start1":54,"start2":54,"length1":17,"length2":16}],"length":78}
+{"ts":1614698995,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"s &&"],[-1,"\n"],[0,"mono"]],"start1":60,"start2":60,"length1":9,"length2":8}],"length":77}
+{"ts":1614698998,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,".cs "],[-1,"&&"],[1,"\n"],[0,"mono"]],"start1":58,"start2":58,"length1":10,"length2":9}],"length":76}
+{"ts":1614699009,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"cs -out:"],[-1,"./"],[0,"Main.exe"]],"start1":1,"start2":1,"length1":18,"length2":16}],"length":74}
+{"ts":1614699023,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"mcs -out"],[-1,":"],[1," "],[0,"Main.exe"]],"start1":0,"start2":0,"length1":17,"length2":17}],"length":74}
+{"ts":1614699037,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"mcs "],[-1,"-out Main.exe "],[0,"/ref"]],"start1":0,"start2":0,"length1":22,"length2":8}],"length":60}
+{"ts":1614699316,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"mcs "],[1,"-out"],[0,"/referen"]],"start1":0,"start2":0,"length1":12,"length2":16}],"length":64}
+{"ts":1614699319,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"mcs -out"],[1,":"],[0,"/referen"]],"start1":0,"start2":0,"length1":16,"length2":17}],"length":65}
+{"ts":1614699322,"restoring":false,"user_id":43024,"patch":[{"diffs":[[0,"cs -out:"],[1,"Main.exe "],[0,"/referen"]],"start1":1,"start2":1,"length1":16,"length2":25}],"length":74}
