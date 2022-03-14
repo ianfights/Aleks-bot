@@ -4,7 +4,7 @@ The Aleks bot is a bot designed for automatic completion of the Aleks math progr
 ## Why?
 The project originally started when I was tired of doing Aleks, however as the teachers stopped using Aleks my motivation changed to seeing if I could do it
 
-## How Will It WOrk?
+## How Will It Work?
 There are many paths that I have already taken as you can see in the commit history.
 Each of them had their pros and evolved as I became better at coding
 
