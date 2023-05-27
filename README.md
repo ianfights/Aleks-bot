@@ -1,4 +1,7 @@
 # Aleks Bot
+
+# This Project has been dead for years, I will still remain as the maintainer if someone wishes to create this tool
+
 ## What Is It?
 The Aleks bot is a bot designed for automatic completion of the Aleks math program
 ## Why?
